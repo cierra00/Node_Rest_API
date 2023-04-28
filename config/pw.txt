@@ -1,0 +1,5 @@
+Username: mongotut
+Password: r2DZQE5S2urQ593h
+
+connect string: mongodb+srv://mongotut:r2DZQE5S2urQ593h@cluster0.cwlyteo.mongodb.net/CompanyDB
+mongodb+srv://mongotut:<password>@cluster0.cwlyteo.mongodb.net/CompanyDB?retryWrites=true&w=majority
